@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bipsah\\Source\\Repos\\LeetCode\\LeetCode\\LeetCode.csproj": {}
+    "C:\\Users\\bipsah\\source\\repos\\LeetCode\\LeetCode\\LeetCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bipsah\\Source\\Repos\\LeetCode\\LeetCode\\LeetCode.csproj": {
+    "C:\\Users\\bipsah\\source\\repos\\LeetCode\\LeetCode\\LeetCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bipsah\\Source\\Repos\\LeetCode\\LeetCode\\LeetCode.csproj",
+        "projectUniqueName": "C:\\Users\\bipsah\\source\\repos\\LeetCode\\LeetCode\\LeetCode.csproj",
         "projectName": "LeetCode",
-        "projectPath": "C:\\Users\\bipsah\\Source\\Repos\\LeetCode\\LeetCode\\LeetCode.csproj",
+        "projectPath": "C:\\Users\\bipsah\\source\\repos\\LeetCode\\LeetCode\\LeetCode.csproj",
         "packagesPath": "C:\\Users\\bipsah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bipsah\\Source\\Repos\\LeetCode\\LeetCode\\obj\\",
+        "outputPath": "C:\\Users\\bipsah\\source\\repos\\LeetCode\\LeetCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
