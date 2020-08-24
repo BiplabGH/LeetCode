@@ -42,6 +42,15 @@ namespace LeetCode
             */
             #endregion
 
+            #region 5 - Sum of Left Leaves Date: 24 Aug 2020
+            /*
+            Sum_of_Left_Leaves soll = new Sum_of_Left_Leaves();
+            TreeNode node = new TreeNode();
+            int sumOfLeftNodes = soll.SumOfLeftLeaves(node);
+            Console.WriteLine(sumOfLeftNodes);
+            */
+            #endregion
+
         }
     }
 }
