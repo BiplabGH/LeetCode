@@ -58,6 +58,15 @@ namespace LeetCode
             Console.WriteLine(listN);
             */
             #endregion
+
+            #region 7 - First Missing Positive Date: 26 Aug 2020
+            /*
+            First_Missing_Positive fmp = new First_Missing_Positive();
+            int[] num=new int[];
+            int posNum = fmp.FirstMissingPositive(num);
+            Console.WriteLine(posNum);
+            */
+            #endregion
         }
     }
 }
